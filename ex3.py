@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 print "I will now count my chickens"
 
 #注意：不要忘记「,」
